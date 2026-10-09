@@ -1,0 +1,15 @@
+[[media]]
+file = "rally.json.gz"
+name = "A rally curving through the obstacles"
+
+[[media]]
+file = "rally.png"
+name = "Mid-rally, the ball bending past a bar"
+
+[[media]]
+file = "title.png"
+name = "The title screen"
+
+[[media]]
+file = "howto.png"
+name = "How to play: the controls and the spin"
